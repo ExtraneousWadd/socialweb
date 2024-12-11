@@ -1,0 +1,52 @@
+.column {
+    float: left;
+    width: 25%;
+    background-color:#5E807F;
+    height:100%;
+  }
+
+  .main {
+    float: left;
+    width: 50%;
+    background-color: #9DC5BB;
+    height: 100%;
+  }
+
+  h1{
+    text-align: center;
+    font-size: 50px;
+    border: 4px solid #D5DCDC;
+    margin-left: 75px;
+    margin-right: 75px;
+  }
+
+  h2{
+    text-align: center;
+    font-size: 40px;
+    border: 4px solid #D5DCDC;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 38.5px;
+  }
+
+  .user{
+    font-weight: bold;
+    color:#b7cccc;
+    font-size: 20px;
+    line-height: 45px;
+  }
+
+  .post{
+    font-weight:bold;
+    color:#6e7575;
+    font-size:25px;
+  }
+
+  .comment{
+    font-weight:bold;
+    font-size: 19px;
+  }
+
+  p{
+    text-align: center;
+  }
